@@ -1,0 +1,64 @@
+/* navbar section */
+#hero{
+    background: linear-gradient(rgba(64, 49, 112, 0.541), rgba(63, 49, 123, 0.438)),url(mon.jpg);
+    background-position: center;
+    background-size: cover; 
+}
+.navbar img{
+    width: 50px;
+    height: 25px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+#fixed{
+    position: fixed;
+    width: 100%;
+    height: 50px;
+}
+/* carousel section */
+.carousel-item img{
+    height:550px;
+}
+/* poyo section */
+.poyo{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 100px;    
+}
+/* models section */
+#comeingsoon{
+width: 400px;
+margin-top: 80px;
+height: 400px;
+border-radius: 50%;
+}
+/* gps in servise page */
+#gps{
+    width: 100px;
+    height:100px;
+}
+/* lottery section in service page */
+#Lotteryimg{
+    width:350px;
+    height:350px;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+} 
+/* form from contact me page  */
+.full{
+    width: 100%;
+}
+/* svg in contact me page */
+svg{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+/* form in contact me page */
+form{
+    margin-top: 70px;
+}
+https://github.com/TamimMirzada/Cars-project/upload/main
